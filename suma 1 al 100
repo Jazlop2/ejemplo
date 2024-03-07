@@ -1,0 +1,8 @@
+z=1
+su=0
+while z<=100:
+    su =su+z
+    print("el numero de z=", z, "es", su)
+    z=z+1
+print("el numero total es: ",su)
+print (su)
